@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:glassmorphism/glassmorphism.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:test_demo_question/Views/widgets/custom_text.dart';
-import 'package:test_demo_question/Views/widgets/image_avatar.dart';
+import 'package:example_repo/Views/widgets/custom_text.dart';
+import 'package:example_repo/Views/widgets/image_avatar.dart';
 
 Widget breweryListCard({
   function,

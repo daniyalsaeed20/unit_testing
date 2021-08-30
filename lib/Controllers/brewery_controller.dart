@@ -1,5 +1,5 @@
+import 'package:example_repo/Model/dummy_data_model.dart';
 import 'package:get/get.dart';
-import 'package:test_demo_question/Model/dummy_data_model.dart';
 
 class BreweryController extends GetxController {
   /* -------------------------------------------------------------------------- */

@@ -2,14 +2,14 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:test_demo_question/Controllers/app_controller.dart';
-import 'package:test_demo_question/Controllers/brewery_controller.dart';
-import 'package:test_demo_question/Controllers/db_controller.dart';
-import 'package:test_demo_question/Views/brewery_details_page.dart';
-import 'package:test_demo_question/Views/cards/brewery_list_card.dart';
-import 'package:test_demo_question/Views/widgets/custom_app_bar.dart';
-import 'package:test_demo_question/Views/widgets/search_bar.dart';
-import 'package:test_demo_question/data/colors.dart';
+import 'package:example_repo/Controllers/app_controller.dart';
+import 'package:example_repo/Controllers/brewery_controller.dart';
+import 'package:example_repo/Controllers/db_controller.dart';
+import 'package:example_repo/Views/brewery_details_page.dart';
+import 'package:example_repo/Views/cards/brewery_list_card.dart';
+import 'package:example_repo/Views/widgets/custom_app_bar.dart';
+import 'package:example_repo/Views/widgets/search_bar.dart';
+import 'package:example_repo/data/colors.dart';
 
 class HomePage extends StatelessWidget {
   @override

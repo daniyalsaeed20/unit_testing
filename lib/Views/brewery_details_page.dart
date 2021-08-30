@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:test_demo_question/Controllers/brewery_controller.dart';
-import 'package:test_demo_question/Views/widgets/custom_text.dart';
+import 'package:example_repo/Controllers/brewery_controller.dart';
+import 'package:example_repo/Views/widgets/custom_text.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class BreweryDetailsPage extends StatelessWidget {

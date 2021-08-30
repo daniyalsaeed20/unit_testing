@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:test_demo_question/data/colors.dart';
+import 'package:example_repo/data/colors.dart';
 
 Widget imageAvatar(
   imageLink, {

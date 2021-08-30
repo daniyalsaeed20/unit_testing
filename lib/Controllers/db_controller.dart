@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import 'package:test_demo_question/Controllers/brewery_controller.dart';
-import 'package:test_demo_question/Model/dummy_data_model.dart';
+import 'package:example_repo/Controllers/brewery_controller.dart';
+import 'package:example_repo/Model/dummy_data_model.dart';
 
 class DbController extends GetxController {
   /* -------------------------------------------------------------------------- */
